@@ -144,3 +144,4 @@ details on how to participate in our community.
 ## Licensing
 
 Semantic is licensed under the [MIT license](LICENSE).
+
